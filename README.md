@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi my name is Tiago
 
-<!--
-**xequeDev/XequeDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student looking to be a software developer, I'm training in these languages:
+<br/>
+<br/>
+<hr/>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="48"/>
+</div>
+<hr/>
+<br/>
+But I'm only good at Javascript XD
