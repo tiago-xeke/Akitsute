@@ -1,6 +1,6 @@
-### Hi my name is Tiago
+### Olá meu nome é Tiago
 
-I'm a student looking to be a software developer, I'm training in these languages:
+Quero aprender estas linguagens:
 <hr/>
 <div>
   <img src="https://img.icons8.com/fluency/1x/javascript.png" width="50"/>
@@ -11,3 +11,4 @@ I'm a student looking to be a software developer, I'm training in these language
   <img src="https://img.icons8.com/fluency/1x/swift.png" width="50"/>
   <img src="https://img.icons8.com/external-flat-juicy-fish/1x/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50"/>
 </div>
+Porém eu ainda só sei javascript, de 0 a 1000, o meu nível de programador ainda uns é 3...
