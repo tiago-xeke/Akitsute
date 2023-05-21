@@ -10,4 +10,5 @@ Quero aprender estas linguagens:
 </div>
 Porém eu ainda só sei javascript, de 0 a 1000, o meu nível de programador ainda é uns 3...
 <hr/>
-Aqui você não vai achar calculadora ou jogo da velha em HTML, e você só vai achar bibliotecas e não meus projetos principais inteiros, não sou doido kkkk
+
+Aqui você não vai achar calculadora ou jogo da velha em HTML, e você só vai achar as bibliotecas e não meus projetos principais inteiros, não sou doido kkkk
