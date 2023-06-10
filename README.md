@@ -1,4 +1,4 @@
-Quero aprender estas tecnologias
+Quero aprender estas tecnologias:
   - [x] (Javascript)
   - [ ] (Scala)
   - [ ] (Ruby)
