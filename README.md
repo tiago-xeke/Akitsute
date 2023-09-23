@@ -20,12 +20,6 @@ Linguagens que uso: <br>
 />
 <img 
   width=55
-  title="Java"
-  alt="Java"
-  src="https://github.com/Akitsute/Akitsute/assets/118070875/af40a172-e2de-4b88-a837-2258ebdb4e41"
-/>
-<img 
-  width=55
   title="Javascript"
   alt="Javascript"
   src="https://github.com/Akitsute/Akitsute/assets/118070875/050114e8-b3eb-4389-b228-7f9ad138d34c"
