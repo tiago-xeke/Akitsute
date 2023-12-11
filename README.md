@@ -2,9 +2,15 @@ Linguagens que uso: <br>
 
 <img 
   width=60
-  title="C"
-  alt="C"
-  src="https://github.com/Akitsute/Akitsute/assets/118070875/7c9b1fc8-147f-43ab-ac6c-08556272a373"
+  title="C++"
+  alt="C++"
+  src="https://github.com/Akitsute/Akitsute/assets/118070875/ba6457d4-a28a-4cfb-a771-b263fb556565"
+/>
+<img 
+  width=60
+  title="Java"
+  alt="Java"
+  src="https://github.com/Akitsute/Akitsute/assets/118070875/b1439096-1e61-4833-9fc2-a603e5b0f269"
 />
 <img 
   width=60
