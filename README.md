@@ -1,4 +1,5 @@
-Linguagens que uso: <br>
+Aprendi a programar no final dos meus 10 anos <br>
+Não sei se quero trabalhar com isso, só quero ser feliz, não importa como kkk
 
 <img 
   width=60
